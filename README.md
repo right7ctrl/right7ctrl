@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=right7ctrl&theme=onedark"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=right7ctrl&theme=onedark&include_all_commits=true"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=right7ctrl&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> 
   
   <div align="center">
